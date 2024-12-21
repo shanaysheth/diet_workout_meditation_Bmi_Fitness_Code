@@ -14,6 +14,7 @@ While setting a goal the user only has to enter the number of the goal he/she wa
 type the goals name (do NOT type Weight Gain, just enter the number associated to it). 
 
 **3. Fitness Dashboard **
+
 After logging in, all users will see the following menu options: 
 
 1. Workout: Select workout intensity (High, Moderate, Low). Recommendations are 
